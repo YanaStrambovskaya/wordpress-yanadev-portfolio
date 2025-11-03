@@ -1,2 +1,28 @@
 # wordpress-yanadev-portfolio
-Modern personal portfolio website built with WordPress &amp; Elementor to showcase my skills, projects, and services as a front-end developer. Features responsive layout, clean UI, optimized performance, and user-friendly structure. Designed to highlight professional experience and support freelance opportunities.
+# Personal Portfolio Website
+
+A responsive personal website built using WordPress and Elementor.
+
+## 🚀 Features
+- Modern, responsive UI
+- Elementor-based layout
+- Custom CSS tweaks
+- Mobile-friendly optimization
+
+## 🛠 Tech Stack
+WordPress, Elementor, HTML, CSS
+
+## 🔧 Responsibilities
+- Installed and configured WordPress
+- UI/UX Design
+- Designed pages using Elementor
+- Applied custom CSS for responsiveness
+- Configured plugins
+- Deployed to hosting environment
+
+## 📸 Screenshots
+[ add screenshots ]
+
+## 🌐 Live Demo
+Website: https://yanadev.infinityfree.me/
+
