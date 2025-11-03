@@ -21,8 +21,8 @@ WordPress, Elementor, HTML, CSS
 - Deployed to hosting environment
 
 ## 📸 Screenshots
-[ add screenshots ](./screencapture-yanadev-infinityfree-me-2025-11-03-16_43_00.png)
+[ view screenshot ](./screencapture-yanadev-infinityfree-me-2025-11-03-16_43_00.png)
 
 ## 🌐 Live Demo
-Website: [ add screenshots ](https://yanadev.infinityfree.me/)
+Website: [ yanadev.infinityfree.me ](https://yanadev.infinityfree.me/)
 
